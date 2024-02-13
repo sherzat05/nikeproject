@@ -1,0 +1,27 @@
+.featured_one h6 {
+    color: #111;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15.875px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 151.181% */
+}
+
+.featured {
+    display: flex;
+    justify-content: center;
+    gap: 5pc;
+}
+
+#featured{
+width: 1600px;
+    padding-top: 4pc;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 90px;
+    left: 0;
+    z-index: 9;
+}
+
